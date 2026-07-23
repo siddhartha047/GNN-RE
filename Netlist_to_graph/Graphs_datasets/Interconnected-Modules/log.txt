@@ -1,0 +1,47 @@
+                        netlist_to_graph_re.pl
+                        Version   Released on
+                    Lilas Alrahis <lma387@nyu.edu>
+                  New York University Abu Dhabi, UAE
+
+               'netlist_to_graph_re.pl -help' for help
+
+
+Program completed in 1631 sec without error.
+
+Reading the file Test_add_mul_16_bit_Syn_65nm.v
+Reading the file Test_add_mul_2_bit_Syn_65nm.v
+Reading the file Test_add_mul_combine_16_bit_Syn_65nm.v
+Reading the file Test_add_mul_combine_2_bit_Syn_65nm.v
+Reading the file Test_add_mul_comp_16_bit_Syn_65nm.v
+Reading the file Test_add_mul_comp_sub_16_bit_Syn_65nm.v
+Reading the file Test_add_mul_mix_16_bit_Syn_65nm.v
+Reading the file Test_add_mul_mix_2_bit_Syn_65nm.v
+Reading the file Test_add_mul_sub_16_bit_Syn_65nm.v
+Reading the file Train_add_mul_1_bit_Syn_65nm.v
+Reading the file Train_add_mul_32_bit_Syn_65nm.v
+Reading the file Train_add_mul_4_bit_Syn_65nm.v
+Reading the file Train_add_mul_64_bit_Syn_65nm.v
+Reading the file Train_add_mul_combine_32_bit_Syn_65nm.v
+Reading the file Train_add_mul_combine_4_bit_Syn_65nm.v
+Reading the file Train_add_mul_combine_64_bit_Syn_65nm.v
+Reading the file Train_add_mul_comp_2_bit_Syn_65nm.v
+Reading the file Train_add_mul_comp_32_bit_Syn_65nm.v
+Reading the file Train_add_mul_comp_4_bit_Syn_65nm.v
+Reading the file Train_add_mul_comp_64_bit_Syn_65nm.v
+Reading the file Train_add_mul_comp_sub_2_bit_Syn_65nm.v
+Reading the file Train_add_mul_comp_sub_32_bit_Syn_65nm.v
+Reading the file Train_add_mul_comp_sub_4_bit_Syn_65nm.v
+Reading the file Train_add_mul_comp_sub_64_bit_Syn_65nm.v
+Reading the file Train_add_mul_mix_32_bit_Syn_65nm.v
+Reading the file Train_add_mul_mix_4_bit_Syn_65nm.v
+Reading the file Train_add_mul_mix_64_bit_Syn_65nm.v
+Reading the file Train_add_mul_sub_2_bit_Syn_65nm.v
+Reading the file Train_add_mul_sub_32_bit_Syn_65nm.v
+Reading the file Train_add_mul_sub_4_bit_Syn_65nm.v
+Reading the file Train_add_mul_sub_64_bit_Syn_65nm.v
+Reading the file Validate_add_mul_8_bit_Syn_65nm.v
+Reading the file Validate_add_mul_combine_8_bit_Syn_65nm.v
+Reading the file Validate_add_mul_comp_8_bit_Syn_65nm.v
+Reading the file Validate_add_mul_comp_sub_8_bit_Syn_65nm.v
+Reading the file Validate_add_mul_mix_8_bit_Syn_65nm.v
+Reading the file Validate_add_mul_sub_8_bit_Syn_65nm.v
